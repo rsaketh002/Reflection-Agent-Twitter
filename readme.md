@@ -76,7 +76,7 @@ LANGCHAIN_PROJECT=Reflection-Agent
 ## 🧪 Example Prompts
 
 Try:
-- "Write a tweet about GPT-5."
+- "Write a tweet about GPT-4."
 - "Make a viral tweet about AI in healthcare."
 - "Critique this tweet: 'AI is taking over.'"
 
